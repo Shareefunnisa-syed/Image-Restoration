@@ -1,0 +1,17 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (klass.cpp:99), pid=40212, tid=34124
+#  Error: ShouldNotReachHere()
+#
+# JRE version: 6.0_17-b04
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (14.3-b01 mixed mode windows-amd64 )
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000077cdc000):  JavaThread "Main message loop" daemon [_thread_in_vm, id=34124, stack(0x0000000148030000,0x000000014c030000)]
+
+Stack: [0x0000000148030000,0x000000014c030000]
