@@ -1,0 +1,1 @@
+The project focuses on enhancing images using a multi-scale fusion approach that integrates different enhancement techniques, including red channel compensation, white balance correction, gamma correction, and sharpening. The goal is to improve image quality by balancing contrast, saturation, and sharpness.
